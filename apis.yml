@@ -1,72 +1,20 @@
-name: Outils De Transfert
-description: File transfer and sharing service APIs
-image: https://example.com/logo.png
-url: https://outilsdetransfert.com
-created: '2024-01-15'
-modified: '2024-01-15'
-apis:
-- name: File Transfer API
-  description: API for uploading, downloading, and managing file transfers
-  image: https://example.com/transfer-api-icon.png
-  humanURL: https://outilsdetransfert.com/api
-  baseURL: https://api.outilsdetransfert.com/v1
-  tags:
-  - files
-  - transfer
-  - upload
-  - download
-  - storage
-  properties:
-  - type: Documentation
-    url: https://docs.outilsdetransfert.com/api
-  - type: OpenAPI
-    url: https://api.outilsdetransfert.com/v1/openapi.json
-  - type: Authentication
-    url: https://docs.outilsdetransfert.com/api/authentication
-  contact:
-  - type: Support
-    url: https://outilsdetransfert.com/support
-  - type: Email
-    url: mailto:api@outilsdetransfert.com
-  - type: Twitter
-    url: https://twitter.com/outilsdetransfert
-- name: Link Sharing API
-  description: API for creating and managing shareable download links
-  image: https://example.com/sharing-api-icon.png
-  humanURL: https://outilsdetransfert.com/api/sharing
-  baseURL: https://api.outilsdetransfert.com/v1/share
-  tags:
-  - sharing
-  - links
-  - permissions
-  - expiration
-  properties:
-  - type: Documentation
-    url: https://docs.outilsdetransfert.com/api/sharing
-  - type: Examples
-    url: https://docs.outilsdetransfert.com/api/sharing/examples
-  contact:
-  - type: Support
-    url: https://outilsdetransfert.com/support
-maintainers:
-- name: Outils De Transfert Team
-  email: api@outilsdetransfert.com
-  url: https://outilsdetransfert.com
+aid: outils-de-transfert
+name: Outils de Transfert
+description: >-
+  Outils de Transfert refers to file transfer and data transfer tools
+  used in French-speaking business environments.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- file transfer
-- file sharing
-- cloud storage
-- data transfer
-- secure sharing
-include: []
-common:
-- type: Terms of Service
-  url: https://outilsdetransfert.com/terms
-- type: Privacy Policy
-  url: https://outilsdetransfert.com/privacy
-- type: Pricing
-  url: https://outilsdetransfert.com/pricing
-- type: Status Page
-  url: https://status.outilsdetransfert.com
-- type: Blog
-  url: https://outilsdetransfert.com/blog
+  - File Transfer
+  - Data Transfer
+  - France
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/outils-de-transfert/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
