@@ -6,8 +6,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - File Transfer
   - Data Transfer
+  - File Transfer
   - France
 url: >-
   https://raw.githubusercontent.com/api-evangelist/outils-de-transfert/refs/heads/main/apis.yml
